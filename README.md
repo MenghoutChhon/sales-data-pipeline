@@ -7,7 +7,7 @@ This project demonstrates a complete sales data pipeline using **Apache NiFi**, 
 ## 🚀 Architecture
 
 - **Apache NiFi**: For ingesting and transforming sales data from CSV
-Apache NiFi is another framework for building data engineering pipelines, and it too
+- Apache NiFi is another framework for building data engineering pipelines, and it too
 utilizes DAGs. Apache NiFi was built by the National Security Agency and is used
 at several federal agencies. Apache NiFi is easier to set up and is useful for new data
 engineers. The GUI is excellent and while you can use Jython, Clojure, Scala, or Groovy
